@@ -12,7 +12,7 @@
     "enabled": true,
     "enabledExplore": true,
     "weight": 0,
-    "customOrder": 14,
+    "customOrder": 1,
     "lastUpdateTime": 1622364533916,
     "ruleSearch": {
         "bookList": "@css:.library>li",
