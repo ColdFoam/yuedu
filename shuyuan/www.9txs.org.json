@@ -1,9 +1,9 @@
-[{
+{
     "bookSourceUrl": "https://www.9txs.org",
     "bookSourceType": "0",
     "bookSourceName": "九桃小说",
-    "bookSourceGroup": "冷魅,九桃,极速",
-    "bookSourceComment": "",
+    "bookSourceGroup": "CSS",
+    "bookSourceComment": "冷魅",
     "loginUrl": "",
     "bookUrlPattern": "",
     "header": "",
@@ -12,8 +12,8 @@
     "enabled": true,
     "enabledExplore": true,
     "weight": 0,
-    "customOrder": 1,
-    "lastUpdateTime": 1622368038163,
+    "customOrder": 6,
+    "lastUpdateTime": 1622857218668,
     "ruleSearch": {
         "bookList": "@css:.library > li",
         "name": "@css:.bookname@text",
@@ -53,4 +53,4 @@
     "ruleContent": {
         "content": "@css:#content > p:not(:first-child)@html"
     }
-}]
+}
