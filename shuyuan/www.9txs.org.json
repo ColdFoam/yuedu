@@ -1,4 +1,4 @@
-{
+[{
     "bookSourceUrl": "https://www.9txs.org",
     "bookSourceType": "0",
     "bookSourceName": "九桃小说",
@@ -53,4 +53,4 @@
     "ruleContent": {
         "content": "@css:#content > p:not(:first-child)@html"
     }
-}
+}]
